@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(C:\\dev\\project\\Dodam\\Dodam\\src\\main\\java\\com\\dodam\\member\\repository/**)",
+      "Read(C:\\dev\\project\\Dodam\\Dodam\\src\\main\\java\\com\\dodam\\member\\entity/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
